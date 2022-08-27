@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\web paint\\.vscode"
+		},
+		{
+			"path": "..\\web paint\\images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portofolio Nurmuhammad"
+	}
+}

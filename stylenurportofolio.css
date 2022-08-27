@@ -1,0 +1,105 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+
+}
+
+body {
+
+    /* background-image: url(./photoportofolio/uzbekistan-flag.jpg); */
+    background-image: url(./flaguzb.jpg);
+    background-size: cover;
+
+}
+
+header nav {
+
+    display: flex;
+    width: auto;
+    height: 70px;
+    background: rgba(0, 0, 0, 0.781);
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 10px;
+
+}
+
+header .menunav1 hr {
+
+    height: 4px;
+    background-color: red;
+}
+
+header .menunav1 h1 {
+
+    color: rgba(255, 0, 0, 0.801);
+    padding: 8px;
+
+}
+
+header .nav2 ul {
+
+    display: flex;
+    margin: auto;
+
+}
+
+header .nav2 h1 {
+
+    margin-left: 20px;
+    padding: 8px;
+    color: white;
+
+}
+
+header .nav2 li :hover {
+    color: rgb(159, 105, 247);
+    background-color: rgb(6, 57, 112);
+    border-radius: 15px;
+
+}
+
+header h1 {
+
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Silkscreen', cursive;
+
+}
+
+header .h11{
+    display: flex;
+width: 600px;
+height: 300px;
+padding-top: 350px;
+padding-left: 70px;
+/* background: violet; */
+color: blue;
+align-content: flex-end;    
+    
+}
+
+
+ footer .cantak{
+display: flex;
+justify-content: end;
+    padding-top: 420px;
+    padding-right: 75px;
+}
+
+footer .fi{
+color: gold;
+    /* color:#229ED9; */
+    font-size: 40px;
+    padding-left: 40px;
+
+}
+
+footer .cantak h1{
+padding-left: 30px;
+padding-top: 10px;
+    color: wheat;
+}

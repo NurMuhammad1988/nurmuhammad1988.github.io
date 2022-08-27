@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    scroll-margin: auto;
+
+}
+
+/* header */
+
+
+header .nav2 {
+
+    padding-bottom: 200px;
+}
+
+
+/* headert nav menu */
+
+header nav .dom {
+
+    font-size: 30px;
+
+}
+
+header nav .dom a {
+
+    color: red;
+
+}
+
+header .nav .dom hr {
+
+    width: 30px;
+    height: 3px;
+    background-color: red;
+
+}
+
+/* header nav menu */
+header {
+
+    background: url(./header.jpg);
+    background-size: cover;
+
+}
+
+header nav {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+header nav ul {
+
+    display: flex;
+    justify-content: space-around;
+    width: 654px;
+
+}
+
+header .logo {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #CB0A15;
+
+}
+
+header nav ul li a {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    color: #515151;
+    padding: 17px 26px;
+    display: block;
+
+}
+
+header nav ul li a:hover {
+
+    background: #515151;
+    color: #ffffff;
+
+}
+
+header h1 {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 46px;
+    color: #CB0A15;
+    margin-top: 215px;
+    text-align: center;
+
+}
+
+header p {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #515151;
+    padding-bottom: 275px;
+    text-align: center;
+
+}
+
+/* header */
+
+/* mainn */
+
+main {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+main .bir {
+
+    width: 539px;
+
+}
+
+main .bir h3 {
+
+    margin-top: 30px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    color: #2C2C2C;
+
+}
+
+main .bir p {
+
+    margin-top: 30px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    color: #919191;
+
+}
+
+main .ikki {
+
+    width: 539px;
+    margin-left: 30px;
+
+}
+
+main .ikki .box {
+
+    display: flex;
+    margin-bottom: 30px;
+    justify-content: space-around;
+
+}
+
+main .ikki .box h4 {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    color: #000000;
+
+}
+
+main .ikki .text {
+
+    margin-left: 30px;
+
+}
+
+main .ikki p {
+
+    margin-top: 18px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #919191;
+
+}
+
+/* mainn */
+
+/* footer */
+footer .box2 {
+
+    position: absolute;
+    display: flex;
+    width: max-content;
+    height: 300px;
+    left: 0px;
+    top: 1590px;
+    background: #F9F9F9;
+    padding-left: 280px;
+
+}
+
+footer .box3 {
+
+    display: flex;
+    width: 1110px;
+    height: 250px;
+    background: #f9f9f9;
+    justify-content: space-around;
+}
+
+footer .foot1 {
+
+
+    display: block;
+    margin: auto;
+    padding-top: 48px;
+    margin-bottom: 48px;
+
+
+}
+
+.box2 .box3 .foot1 {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 23px;
+    color: #000000;
+
+}
+
+.box2 .box3 .foot1 h5 {
+
+    color: red;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 13px;
+    padding-left: 80px;
+
+}
+
+.box2 .box3 .foot1 h4 {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+
+}
+
+.box2 .box3 .foot1 li a {
+
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    color: #A5A5A5;
+
+}
+
+.box2 .box3 .foot1 li a:hover {
+
+    background: #515151;
+    color: #ffffff;
+
+}
+
+/* footer */
